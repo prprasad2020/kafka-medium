@@ -1,0 +1,9 @@
+apiVersion: v2
+appVersion: v2.0.2
+description: Helm chart to deploy Redpanda Console.
+maintainers:
+- name: weeco
+  url: https://github.com/weeco
+name: console
+type: application
+version: 0.3.1
