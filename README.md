@@ -1,1 +1,1 @@
-## Create MSK and integrate with Redpanda-Console using Terraform
+## Create MSK using Terraform and integrate with Redpanda-Console
